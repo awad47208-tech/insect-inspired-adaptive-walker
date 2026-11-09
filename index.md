@@ -14,3 +14,8 @@ We obtained a CAD leg model as a visual reference for the leg shape and joint ar
 - Check their specifications, compatibility, and prices.
 - Prepare the component list and order the parts.
 - After receiving the parts, develop our design and begin building the walker.
+
+## More References 
+
+https://www.pcbway.com/project/shareproject/Quadruped_Spider_Robot_3D_Printed_Parts_SG90_Servo_Motor_Arduino_Nano_10107fe3.html
+
